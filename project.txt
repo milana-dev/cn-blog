@@ -1,0 +1,5 @@
+accounts - register, login, user info
+blogs - create blog, detail blog, all blog, delete blog, update blog
+----------------------------------QEYDLER-------------------------------------
+get sorgusu - bu sorğu url vasitesi ile alinir. Əgər verilən sorğu bazada mövcuddursa, onu təqdim edir.Yoxdursa olmadğığını bildirir.
+Nece olur bu? Məsələn sen ......./blogs/elxanelatlı/ bele bir sorğu atmısan.Əgər bu müəllifin kitabları varsa bazada sənə göstərir, yoxdusa sənə bu müəllifə aid məluamtın olmadığını bildirir. 
